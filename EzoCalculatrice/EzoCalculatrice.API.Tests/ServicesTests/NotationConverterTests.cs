@@ -1,4 +1,5 @@
-﻿using EzoCalculatrice.API.Utils;
+﻿using EzoCalculatrice.API.Operators;
+using EzoCalculatrice.API.Services;
 using Microsoft.AspNetCore.Authorization.Infrastructure;
 
 namespace EzoCalculatrice.API.Tests.UtilsTests

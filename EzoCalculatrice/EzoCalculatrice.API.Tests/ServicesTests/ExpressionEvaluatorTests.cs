@@ -1,4 +1,5 @@
-﻿using EzoCalculatrice.API.Utils;
+﻿using EzoCalculatrice.API.Operators;
+using EzoCalculatrice.API.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -1,7 +1,6 @@
-﻿
-using System.Text.RegularExpressions;
+﻿using System.Text.RegularExpressions;
 
-namespace EzoCalculatrice.API.Utils
+namespace EzoCalculatrice.API.Services
 {
     public class ExpressionDivider
     {

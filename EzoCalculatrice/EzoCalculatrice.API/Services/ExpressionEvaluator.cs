@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EzoCalculatrice.API.Utils
+namespace EzoCalculatrice.API.Services
 {
     public class ExpressionEvaluator
     {
