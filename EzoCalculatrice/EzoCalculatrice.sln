@@ -7,9 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EzoCalculatrice.API", "EzoC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EzoCalculatrice.API.Tests", "EzoCalculatrice.API.Tests\EzoCalculatrice.API.Tests.csproj", "{3908C0D3-4B07-4C23-919B-06D443B44769}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejemplo", "Ejemplo\Ejemplo.csproj", "{302F9710-B02E-4150-8039-27F7127E55DD}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzoCalculatrice.Mobile", "EzoCalculatrice.Mobile\EzoCalculatrice.Mobile.csproj", "{5A5F2A45-936C-4CE2-A1A0-2DCAE2E2CDEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EzoCalculatrice.Mobile", "EzoCalculatrice.Mobile\EzoCalculatrice.Mobile.csproj", "{5A5F2A45-936C-4CE2-A1A0-2DCAE2E2CDEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,10 +23,6 @@ Global
 		{3908C0D3-4B07-4C23-919B-06D443B44769}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3908C0D3-4B07-4C23-919B-06D443B44769}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3908C0D3-4B07-4C23-919B-06D443B44769}.Release|Any CPU.Build.0 = Release|Any CPU
-		{302F9710-B02E-4150-8039-27F7127E55DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{302F9710-B02E-4150-8039-27F7127E55DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{302F9710-B02E-4150-8039-27F7127E55DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{302F9710-B02E-4150-8039-27F7127E55DD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5A5F2A45-936C-4CE2-A1A0-2DCAE2E2CDEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5A5F2A45-936C-4CE2-A1A0-2DCAE2E2CDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A5F2A45-936C-4CE2-A1A0-2DCAE2E2CDEB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
